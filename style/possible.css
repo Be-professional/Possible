@@ -98,6 +98,38 @@ main section {
     margin-top: 10px;
 }
 
+/* mindset section  */
+.mindset{
+    background-image: url('../images/watch.png');
+    background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0.00) 100%),url('../images/watch.png');
+    height: 300px;
+
+
+   
+}
+
+.positive{
+    color: #FFF;
+    font-size: 40px;
+    font-weight: 700;
+    padding-left: 64px;
+    padding-top: 50px;
+}
+.btn{
+    color: #005FAC;
+    text-align: center;
+    width: 100px;
+    height: 50px;
+    border-radius: 5px;
+    background: #FFF;
+    margin-top: 20px;
+    margin-left: 64px;
+}
+
+.btn:hover{
+    background-color: rgb(149, 246, 246);
+}
+
 
 
 
