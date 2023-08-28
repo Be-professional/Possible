@@ -100,7 +100,6 @@ main section {
 
 /* mindset section  */
 .mindset{
-    background-image: url('../images/watch.png');
     background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0.00) 100%),url('../images/watch.png');
     height: 300px;
 
@@ -129,6 +128,63 @@ main section {
 .btn:hover{
     background-color: rgb(149, 246, 246);
 }
+
+
+
+/* Footer section  */
+footer{
+    background: #151414;
+    margin: 0;
+    display: flex;
+        gap: 350px;
+       
+        padding: 130px 230px;
+
+}
+.footeri-title{
+    color: #F8F8F8;
+    font-size: 45px;
+    font-weight: 700;
+}
+
+.footeri-title2{
+    color: #FFF;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.footer-dercription,.footer-email, .footer-phone{
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    margin-top: 1rem;
+}
+
+.submit-email{
+    margin-top: 30px;
+    color: #F3F3F3;
+    font-size: 16px;
+    font-weight: 400;
+
+}
+.btn-2{
+
+    margin-top: 16px;
+    width: 170.106px;
+    height: 50px;
+    border-radius: 8px;
+    background: #005FAC;
+    color: #FFF;
+}
+
+.social-media{
+    margin-top:32px;
+    width: 175px;
+    height: 46px;
+}
+    
+
 
 
 
