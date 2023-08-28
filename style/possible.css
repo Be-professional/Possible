@@ -27,7 +27,7 @@
 }
 
 .banner-description{
-    /* color: #FFF; */
+    color: #FFF;
     font-size: 16px;
     font-weight: 400;
     line-height: 26px;
@@ -41,6 +41,30 @@
 
 .btn-contact:hover{
     background-color: darkgrey;
+}
+
+.failure{
+    display: flex;
+    gap: 85px;
+    /* justify-content: center; */
+    align-items: center;
+    margin: 50px 230px;
+
+
+}
+
+.failure-title{
+    color:  #151414;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.failure-destription{
+    color: #444343;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    margin-top: 24px;
 }
 
 
