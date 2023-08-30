@@ -183,7 +183,10 @@ footer{
     width: 175px;
     height: 46px;
 }
-    
+
+#email:focus{
+    color: #FFF;
+}
 
 
 
